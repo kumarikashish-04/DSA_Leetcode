@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
