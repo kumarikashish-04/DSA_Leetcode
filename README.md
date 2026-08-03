@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -61,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
