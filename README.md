@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
