@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
