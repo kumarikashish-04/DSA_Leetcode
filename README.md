@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0238-product-of-array-except-self](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
