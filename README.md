@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1563-stone-game-v) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2029-stone-game-ix](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
