@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1140-stone-game-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
