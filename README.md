@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1768-merge-strings-alternately](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -253,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
