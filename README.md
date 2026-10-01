@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -265,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
