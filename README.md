@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0392-is-subsequence) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -274,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
