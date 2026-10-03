@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kumarikashish-04/DSA_Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
